@@ -1,0 +1,12 @@
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\bin\Debug\FileParsingAssigment.exe
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\bin\Debug\FileParsingAssigment.pdb
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\bin\Debug\FileParsingAssigment.xml
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.Form1.resources
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.Resources.resources
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.vbproj.GenerateResource.Cache
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.exe
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.xml
+c:\users\rumon\documents\visual studio 2010\Projects\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.pdb
+E:\Odesk\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.exe
+E:\Odesk\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.xml
+E:\Odesk\FileParsingAssigment\FileParsingAssigment\obj\x86\Debug\FileParsingAssigment.pdb
